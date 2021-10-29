@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull request for review.
 
 ### Copyright
 
-2021 Carlton Noronha
+2021 Carlton Noronha. All right reserved.
